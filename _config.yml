@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1666667
+color:
+  saturation: 0.2073198
+  lightness: 0.9587467
+  brandStrength: 1
+  brandColors:
+    - '#03030E'
+    - '#919188'
+    - '#FBFCFB'
+    - '#0191E9'
+    - '#658803'
+  rhythmicContrast: 0.5888282
+name: 'This. Now. '
